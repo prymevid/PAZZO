@@ -13,7 +13,7 @@ env:
   YOUTUBE_STREAM_KEY: "yyz1-w50g-u0gx-yufk-bt7b"
 
   # Runtime configuration (minutes)
-  BASE_RUNTIME: 150
+  BASE_RUNTIME: 20000
   START_JITTER_MAX: 2
   END_JITTER_MAX: 10
 
